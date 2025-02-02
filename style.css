@@ -1,8 +1,8 @@
 body {
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
 }
 
 #board {
-    background-image: url("img/doodlejumpbg.png");
+    /* background-color: green; */
+    background-image: url("./doodlejumpbg.png");
 }
